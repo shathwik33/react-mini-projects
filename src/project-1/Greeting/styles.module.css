@@ -1,0 +1,13 @@
+.wrapper {
+  text-align: center;
+  width: 500px;
+  padding: 20px;
+}
+
+.wrapper * {
+  padding: 10px;
+}
+
+p {
+  color: gray;
+}
